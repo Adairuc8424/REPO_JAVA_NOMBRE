@@ -16,6 +16,9 @@ public class Nombre{
 		Persona n3 = new Persona("Joseimy Emmanuel Basulto Cituk", 8404);
 		n3.mostrarDatos();
 
+		Persona n4 = new Persona("Andrick Fabian Colli Magdaleno", 8549);
+		n4.mostrarDatos();
+
 
 	}
 }
