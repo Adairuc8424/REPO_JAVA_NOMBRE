@@ -4,5 +4,7 @@ public class Nombre{
                 System.out.println("joseimy Emmanuel Basulto Cituk");
                 /*Editado por Arlan */
                 System.out.println("Arlan Enrique Suaste Cauich");
-        }
+		//Editado por Andrick//
+		System.out.println( "Andrick Fabian Colli Magdaleno" );
+	}
 }
