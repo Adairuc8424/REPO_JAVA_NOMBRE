@@ -9,5 +9,8 @@ public class Nombre{
 		//IMPLEMENTE LA CLASE PERSONA//
 		Persona n1 = new Persona("Adair Emanuel Uc Chim", 8424);
 		n1.mostrarDatos();
+
+                Persona n2 = new Persona("Arlan Enrique Suaste Cauich", 8379);
+		n2.mostrarDatos();
 	}
 }
