@@ -12,5 +12,10 @@ public class Nombre{
 
                 Persona n2 = new Persona("Arlan Enrique Suaste Cauich", 8379);
 		n2.mostrarDatos();
+
+		Persona n3 = new Persona("Joseimy Emmanuel Basulto Cituk", 8404);
+		n3.mostrarDatos();
+
+
 	}
 }
